@@ -18,21 +18,6 @@
   </url>
   
   <url>
-    <loc>https://barutwanayo-syldie.github.io/ru/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://barutwanayo-syldie.github.io/talk/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://barutwanayo-syldie.github.io/ru/talk/example/"
-                />
-  </url>
-  
-  <url>
     <loc>https://barutwanayo-syldie.github.io/ru/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <xhtml:link
@@ -44,6 +29,21 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://barutwanayo-syldie.github.io/ru/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://barutwanayo-syldie.github.io/ru/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://barutwanayo-syldie.github.io/talk/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://barutwanayo-syldie.github.io/ru/talk/example/"
                 />
   </url>
   
@@ -153,21 +153,6 @@
   </url>
   
   <url>
-    <loc>https://barutwanayo-syldie.github.io/ru/project/mon-projet/</loc>
-    <lastmod>2020-12-13T22:55:13+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://barutwanayo-syldie.github.io/project/mon-projet/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://barutwanayo-syldie.github.io/ru/project/mon-projet/"
-                />
-  </url>
-  
-  <url>
     <loc>https://barutwanayo-syldie.github.io/ru/project/</loc>
     <lastmod>2020-12-13T22:55:13+03:00</lastmod>
     <xhtml:link
@@ -179,6 +164,21 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://barutwanayo-syldie.github.io/ru/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://barutwanayo-syldie.github.io/ru/project/mon-projet/</loc>
+    <lastmod>2020-12-13T22:55:13+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://barutwanayo-syldie.github.io/project/mon-projet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://barutwanayo-syldie.github.io/ru/project/mon-projet/"
                 />
   </url>
   
@@ -258,21 +258,6 @@
   </url>
   
   <url>
-    <loc>https://barutwanayo-syldie.github.io/ru/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://barutwanayo-syldie.github.io/project/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://barutwanayo-syldie.github.io/ru/project/example/"
-                />
-  </url>
-  
-  <url>
     <loc>https://barutwanayo-syldie.github.io/ru/tags/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -284,6 +269,21 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://barutwanayo-syldie.github.io/ru/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://barutwanayo-syldie.github.io/ru/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://barutwanayo-syldie.github.io/project/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://barutwanayo-syldie.github.io/ru/project/example/"
                 />
   </url>
   

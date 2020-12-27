@@ -48,21 +48,6 @@
   </url>
   
   <url>
-    <loc>https://barutwanayo-syldie.github.io/post/</loc>
-    <lastmod>2020-12-15T20:56:54+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://barutwanayo-syldie.github.io/ru/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://barutwanayo-syldie.github.io/post/"
-                />
-  </url>
-  
-  <url>
     <loc>https://barutwanayo-syldie.github.io/post/link/</loc>
     <lastmod>2020-12-15T20:56:54+03:00</lastmod>
     <xhtml:link
@@ -74,6 +59,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://barutwanayo-syldie.github.io/post/link/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://barutwanayo-syldie.github.io/post/</loc>
+    <lastmod>2020-12-15T20:56:54+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://barutwanayo-syldie.github.io/ru/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://barutwanayo-syldie.github.io/post/"
                 />
   </url>
   
@@ -258,21 +258,6 @@
   </url>
   
   <url>
-    <loc>https://barutwanayo-syldie.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://barutwanayo-syldie.github.io/ru/project/example/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://barutwanayo-syldie.github.io/project/example/"
-                />
-  </url>
-  
-  <url>
     <loc>https://barutwanayo-syldie.github.io/tags/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -284,6 +269,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://barutwanayo-syldie.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://barutwanayo-syldie.github.io/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://barutwanayo-syldie.github.io/ru/project/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://barutwanayo-syldie.github.io/project/example/"
                 />
   </url>
   
